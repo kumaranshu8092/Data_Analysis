@@ -53,7 +53,9 @@ and transactions.market_code="Mark001";`
 
 The Tableau file is created by Tableau Desktop and Cannot be opened in Tableau Public, It can be opened in Tableau Professional
 
+Sales And Revenue Tableau Public Dashboard
 
+![image](https://user-images.githubusercontent.com/60073235/166192563-131a2a0b-fdab-4921-8307-e3d0649231bc.png)
 
 
 ![Profitinsight](https://user-images.githubusercontent.com/60073235/166143045-cb0c124e-fbf2-48ca-969a-3b871e3806c3.png)
